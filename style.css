@@ -1,0 +1,40 @@
+body{
+    background-color: darkslategray;
+    
+}
+
+.container{
+    /* border: 2px solid red; */
+    align-items: center;
+    width: 80%;
+}
+.container h1{
+    color: rgb(63, 245, 63);
+    font-size: 5rem;
+    text-shadow: 2px 2px yellow;
+    font-family: 'Lobster', cursive;
+}
+.container h3{
+    color: rgb(63, 245, 63);
+    font-size: 30px;
+    text-shadow: 2px 2px yellow;
+    font-family: 'Indie Flower', cursive;
+   
+}
+.player_1{
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    /* border: 2px solid greenyellow; */
+}
+img{
+    width: 60%;
+}
+.player_2{
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    /* border: 2px solid greenyellow; */
+    margin-left: 2px;
+    
+}
